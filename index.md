@@ -4,3 +4,5 @@
 #### For text formatting
 ##### On GitHub and other platforms
 ###### Easily create formatted text
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
